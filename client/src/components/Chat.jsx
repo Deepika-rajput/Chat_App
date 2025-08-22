@@ -31,7 +31,7 @@ function Chat() {
   };
 
   return (
-    <div className="flex justify-center items-center w-full h-screen bg-gradient-to-br from-pink-400 via-purple-400 to-blue-400">
+    <div className="flex justify-center items-center w-full h-screen bg-animated">
       <div className="bg-white rounded-lg w-96 h-96 p-4 shadow-md">
         <div className="flex flex-col h-full">
           <div className="flex-1 p-2 overflow-y-auto bg-gray-100 rounded-md">
