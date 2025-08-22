@@ -4,12 +4,11 @@ Welcome, fellow developers, to an exciting journey into the world of real-time c
 
 In this step-by-step guide, we're going to explore how to integrate a robust real-time chat feature into your React and Node.js application using the powerful tool, [Socket.IO](https://Socket.IO). By the end of this journey, you'll have the skills and knowledge to create interactive, real-time chat experiences that will captivate your users.
 
-### **Technologies we would be using**
+### **Technologies used**
 
 1. React
 2. Node.js & Express.js
 3. Socket.IO
-4. A good browser
 
 
 
